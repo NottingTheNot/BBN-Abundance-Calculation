@@ -7,7 +7,7 @@ The code also computes a bonus plot: $\text{Y}_4$ (this is the symbol used in BB
 
 #### References
 [BBN-simple: How to Bake a Universe-Sized Cake](https://www.sciencedirect.com/science/article/pii/S1387647325000016?via%3Dihub) \
-[Weak Scale from BBN](https://arxiv.org/abs/1409.0551) 
+[The Weak Scale from BBN](https://arxiv.org/abs/1409.0551) 
 
 
 ### Example Plots
