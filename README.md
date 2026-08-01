@@ -23,7 +23,7 @@ The code also computes a bonus plot: $\text{Y}_4$ (this is the symbol used in BB
 Run the following commands in your terminal: \
 git clone https://github.com/NottingTheNot/BBN-Abundance-Calculation \
 pip install -r requirements.txt \
-jupyter notebook abundance_calculation.ipynb
+jupyter notebook plotting.ipynb
 
 ### Usage of AI in the code
 Most the code as well as the entirety of the physics was decided by the author. However, some of the code pertaining to the stiff ODE solver;
