@@ -20,7 +20,7 @@ The code also computes a bonus plot: $\text{Y}_4$ (this is the symbol used in BB
 
 
 ## Usage Section
-Run the following commands in your terminal:
+Run the following commands in your terminal: \
 git clone https://github.com/NottingTheNot/BBN-Abundance-Calculation \
 pip install -r requirements.txt \
 jupyter notebook abundance_calculation.ipynb
