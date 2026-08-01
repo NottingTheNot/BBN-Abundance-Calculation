@@ -5,6 +5,9 @@ The code produces the correct plots for the weak scale values between 50 GeV < v
 
 The code also computes a bonus plot: $\text{Y}_4$ (this is the symbol used in BBN literature to denote the mass fraction of $^4\text{He}$) versus the weak scale.
 
+#### References
+[BBN-simple: How to Bake a Universe-Sized Cake](https://www.sciencedirect.com/science/article/pii/S1387647325000016?via%3Dihub) \
+[Weak Scale from BBN](https://arxiv.org/abs/1409.0551) 
 
 
 ### Example Plots
@@ -15,9 +18,6 @@ The code also computes a bonus plot: $\text{Y}_4$ (this is the symbol used in BB
 <img width="711" height="529" alt="image" src="https://github.com/user-attachments/assets/266e169a-ad43-4c0d-adfd-d284652cd7d2" />
 
 
-#### References
-[BBN-simple: How to Bake a Universe-Sized Cake](https://www.sciencedirect.com/science/article/pii/S1387647325000016?via%3Dihub)
-[Weak Scale from BBN](https://arxiv.org/abs/1409.0551)
 
 ### Usage of AI in the code
 Most the code as well as the entirety of the physics was decided by the author. However, there were still a few places in which AI was used. Specifically, some of the code pertaining to the stiff ODE solver;
