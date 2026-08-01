@@ -6,9 +6,9 @@ The code produces the correct plots for the weak scale values between 50 GeV < v
 The code also computes a bonus plot: $\text{Y}_4$ (this is the symbol used in BBN literature to denote the mass fraction of $^4\text{He}$) versus the weak scale.
 
 ### Example Plots
-<img width="1087" height="527" alt="image" src="https://github.com/user-attachments/assets/fe0b9059-966e-46f8-9e67-8dd9b023a2d0" />
+<img width="800" height="527" alt="image" src="https://github.com/user-attachments/assets/fe0b9059-966e-46f8-9e67-8dd9b023a2d0" />   <img width="856" height="591" alt="image" src="https://github.com/user-attachments/assets/6727bed8-3382-4ca2-9706-54a0f38342a7" />
 
-<img width="856" height="591" alt="image" src="https://github.com/user-attachments/assets/6727bed8-3382-4ca2-9706-54a0f38342a7" />
+
 
 <img width="711" height="529" alt="image" src="https://github.com/user-attachments/assets/266e169a-ad43-4c0d-adfd-d284652cd7d2" />
 
