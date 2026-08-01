@@ -19,9 +19,10 @@ The code also computes a bonus plot: $\text{Y}_4$ (this is the symbol used in BB
 
 
 
-## Usage section
-git clone https://github.com/NottingTheNot/BBN-Abundance-Calculation
-pip install -r requirements.txt
+## Usage Section
+Run the following commands in your terminal:
+git clone https://github.com/NottingTheNot/BBN-Abundance-Calculation \
+pip install -r requirements.txt \
 jupyter notebook abundance_calculation.ipynb
 
 ### Usage of AI in the code
