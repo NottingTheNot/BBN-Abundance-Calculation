@@ -8,7 +8,7 @@ The code produces the correct plots for the weak scale values between 50 GeV < v
 The code also computes a bonus plot: $\text{Y}_4$ (this is the symbol used in BBN literature to denote the mass fraction of $^4\text{He}$) versus the weak scale.
 
 ## Usage Section
-Run the following commands in your terminal: \
+Run the following commands in your terminal:
 ```
 git clone https://github.com/NottingTheNot/BBN-Abundance-Calculation 
 pip install -r requirements.txt 
