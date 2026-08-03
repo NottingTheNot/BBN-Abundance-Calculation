@@ -7,6 +7,14 @@ The code produces the correct plots for the weak scale values between 50 GeV < v
 
 The code also computes a bonus plot: $\text{Y}_4$ (this is the symbol used in BBN literature to denote the mass fraction of $^4\text{He}$) versus the weak scale.
 
+## Usage Section
+Run the following commands in your terminal: \
+```
+git clone https://github.com/NottingTheNot/BBN-Abundance-Calculation 
+pip install -r requirements.txt 
+jupyter notebook plotting.ipynb
+```
+
 #### References
 [BBN-simple: How to Bake a Universe-Sized Cake](https://www.sciencedirect.com/science/article/pii/S1387647325000016?via%3Dihub) \
 [The Weak Scale from BBN](https://arxiv.org/abs/1409.0551) 
@@ -21,13 +29,7 @@ The code also computes a bonus plot: $\text{Y}_4$ (this is the symbol used in BB
 
 
 
-## Usage Section
-```
-Run the following commands in your terminal: \
-git clone https://github.com/NottingTheNot/BBN-Abundance-Calculation \
-pip install -r requirements.txt \
-jupyter notebook plotting.ipynb
-```
+
 ### Usage of AI in the code
 Most the code as well as the entirety of the physics was decided by the author. However, some of the code pertaining to the stiff ODE solver;
 wrapping part of the code with tqdm expressions to represent a progress bar; overcoming overflow errors in certain expressions; and making the plots look prettier were done with the help of AI. 
