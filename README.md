@@ -3,7 +3,7 @@ This code was written as part of a summer project that the author did with Prof.
 # BBN-Abundance-Calculation
 A basic BBN reaction network up to the $^7\text{Be}$ nuclide is considered to calculate the mass fraction of nuclides vs temperature (MeV) curve for a given vacuum expectation value (the weak scale). For this purpose, the reaction rates as given in the JINA Reaclib database were used. The code also outputs a reaction rate vs temperature curve for all the reactions involved.
 
-The code produces the correct plots for the weak scale values between 50 GeV < v < 600 GeV. The lower bound is because the freeze out temperature begins to equalize with the bottleneck temperature, whereas the upper bound arises because of the temperature range in which the Reaclib reaction rates are valid.
+The code produces the correct plots for the weak scale values between 50 GeV < v < 600 GeV. The lower bound is because the freeze out temperature begins to equalize with the bottleneck temperature (which results in the same initial conditions as the weak scale is decreased further, leading to the same plots), whereas the upper bound arises because of the temperature range in which the Reaclib reaction rates are valid.
 
 The code also computes a bonus plot: $\text{Y}_4$ (this is the symbol used in BBN literature to denote the mass fraction of $^4\text{He}$) versus the weak scale.
 
