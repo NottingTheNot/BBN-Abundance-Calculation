@@ -1,4 +1,4 @@
-This code was written as part of a summer project that the author did with Prof. Nirmal Raj, Center for High Energy Physics, Indian Institute of Science.
+This code was written as part of a summer project that the author did with Prof. Nirmal Raj at Center for High Energy Physics, Indian Institute of Science.
 
 # BBN-Abundance-Calculation
 A basic BBN reaction network up to the $^7\text{Be}$ nuclide is considered to calculate the mass fraction of nuclides vs temperature (MeV) curve for a given vacuum expectation value (the weak scale). For this purpose, the reaction rates as given in the JINA Reaclib database were used. The code also outputs a reaction rate vs temperature curve for all the reactions involved.
